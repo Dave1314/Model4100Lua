@@ -1,0 +1,94 @@
+
+
+total 1168
+drwxr-xr-x@  46 amsystems  staff    1564 Oct  3 14:37 .
+	com.dropbox.attributes	    83 
+drwxr-xr-x@ 102 amsystems  staff    3468 Oct  3 14:26 ..
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    2584 Dec  9  2015 Picture1.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff     463 Dec  9  2015 Picture2.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   11939 Feb 18  2016 Picture3.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    2382 Feb 18  2016 Picture4.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    1167 Feb 18  2016 Picture5.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff  182680 Aug  7  2015 amsicon.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   12293 Jul 27  2015 amslogo.png
+	com.dropbox.attributes	    83 
+-rw-r--r--    1 amsystems  staff       0 Oct  3 14:37 attribs.txt
+-rw-r--r--@   1 amsystems  staff   26236 Apr 19 10:33 bnc.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   11724 Apr 18 08:34 delete-button.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   18897 Apr 28 09:02 download.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   24237 Sep 22 14:32 dropbox-windows.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    1023 Apr 13 12:51 ecg2.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    7055 Sep 13 12:34 entypo-12-3493-white.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    3915 Feb 18  2016 entypo-12-3493.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    2332 Feb 18  2016 entypo-120-3662.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    3511 Apr 13 12:47 entypo-128-3670.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    7872 Apr 13 12:50 entypo-133-3675.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    6968 Feb 18  2016 entypo-135-3677.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    5084 Feb 18  2016 entypo-162-3704.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    8470 Apr 13 12:50 entypo-186-3884.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    6358 Feb 18  2016 entypo-198-3896.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    5953 Sep 13 12:35 entypo-2-3480.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    8978 Sep 21 14:50 entypo-23-3505-white.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    5005 Feb 18  2016 entypo-23-3505.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    5770 Feb 18  2016 entypo-37-3527.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    5935 Feb 18  2016 entypo-5-3486.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    5183 Feb 18  2016 entypo-57-3555.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    9371 Apr 13 12:49 entypo-6-3487.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    2412 Feb 18  2016 entypo-66-3567.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    8437 Sep 13 12:35 entypo-80-3585.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   17078 Sep 13 12:34 entypo-88-3593.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    4235 Feb 18  2016 entypo-93-3598.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    5795 Sep 13 12:34 entypo-97-3602.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff     684 Apr 13 12:50 home4.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    2248 Apr 19 07:23 loop-arrow-1.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    4771 Apr 19 07:23 loop-arrow-1@2x.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   10208 Apr 19 07:22 loop-arrow-1@4x.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    1234 Apr 28 09:02 refresh57.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   11821 Apr 19 12:02 repeat.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   20287 Nov 23  2015 stop.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    1009 Apr 13 12:49 train4.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff   18909 Apr 28 09:02 upload.png
+	com.dropbox.attributes	    83 
+-rw-r--r--@   1 amsystems  staff    1460 Apr 19 13:14 warning9.png
+	com.dropbox.attributes	    83 

@@ -1,0 +1,94 @@
+-- Supported values for orientation:
+-- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
+
+settings = {
+
+	excludeFiles =
+   {
+      all = { "*.docx" },
+      iphone = { },
+      android = { }
+   },
+    splashScreen = 
+    {
+        enable = false
+    },	
+	orientation = {
+        default = "landscapeRight",
+        supported = { "landscapeRight", "landscapeLeft" }
+	},
+	android =
+	{
+		usesPermissions =
+		{
+			"android.permission.INTERNET",
+			"android.permission.ACCESS_NETWORK_STATE",
+			--"com.android.vending.CHECK_LICENSE",
+			"android.permission.WRITE_EXTERNAL_STORAGE",
+         "android.permission.ACCESS_WIFI_STATE",
+         "android.permission.ACCESS_NETWORK_STATE",
+		},
+	},
+	iphone = {
+		xcassets = "Images.xcassets",
+		plist = {
+			NSCalendarsUsageDescription = "Not used in this app",
+			NSPhotoLibraryUsageDescription = "Not used in this app",
+			NSCameraUsageDescription = "Not used in this app",
+			UIStatusBarHidden = false,
+			UIPrerenderedIcon = true, -- set to false for "shine" overlay
+			--UIApplicationExitsOnSuspend = true, -- uncomment to quit app on suspend
+
+			UIAppFonts = {
+				"SpecialElite.ttf",
+			},
+      NSAppTransportSecurity =
+      {
+          NSAllowsArbitraryLoads = true,
+      },
+			UILaunchStoryboardName = "BlackScreen",
+
+		}
+	},
+  osx = {
+      NSAppTransportSecurity =
+      {
+          NSAllowsArbitraryLoads = true,
+      },  
+      entitlements = {
+          ["com.apple.security.network.client"] = true,
+    },
+  },
+	win32 = {
+		singleInstance = true,
+		preferenceStorage = "registry",
+		orientation = {
+			  default = "landscapeRight",
+			  supported = { "landscapeRight", "landscapeLeft" }
+		},		
+	},		
+	window = {
+		resizable = true,
+		enableMaximizeButton = true,
+		titleText = "AMS 4100",
+		--minViewWidth = 600,
+		--minViewHeight = 400,
+		--defaultViewWidth = 1200,
+		--defaultViewHeight = 800,
+		titleText = {default = "AMS 4100"},
+	},
+	plugins =
+	{
+        ["plugin.bit"] =
+        {
+            publisherId = "com.coronalabs",
+            --supportedPlatforms = { iphone=true, android=true, osx=true, win32=true }
+        },
+		  ["CoronaProvider.native.popup.social"] =
+        {
+            publisherId = "com.coronalabs"
+        },
+	},
+
+}
+
